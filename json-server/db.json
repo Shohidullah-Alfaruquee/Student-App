@@ -1,0 +1,34 @@
+{
+  "studentList": [
+    {
+      "name": "Shohidullah Alfaruquee",
+      "isPresent": false,
+      "id": 1644467757305
+    },
+    {
+      "name": "Hamidullah",
+      "isPresent": false,
+      "id": 1644467760993
+    },
+    {
+      "name": "Sanaullah",
+      "isPresent": true,
+      "id": 1644467764624
+    },
+    {
+      "name": "Rahmatullah",
+      "isPresent": false,
+      "id": 1644467769947
+    },
+    {
+      "name": "Barkatullah",
+      "isPresent": true,
+      "id": 1644467774977
+    },
+    {
+      "name": "Abdullah Alfaruquee",
+      "isPresent": true,
+      "id": 1644467788352
+    }
+  ]
+}
