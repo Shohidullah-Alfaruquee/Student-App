@@ -1,0 +1,47 @@
+
+.App{
+  text-align: center;
+  margin: 2rem;
+}
+form{
+  margin: 1rem;
+  padding: 0.3rem;
+}
+input{
+  width: 20rem;
+  padding: 0.4rem;
+}
+button{
+  padding: 0.4rem;
+  margin: 0.3rem;
+}
+.list{
+  display: flex;
+  justify-content: center;
+}
+
+.list-containr{
+  margin: 0 1rem;
+}
+table{
+  border-collapse: collapse;
+}
+thead{
+  font-weight: 700;
+  background-color: #2f3c4b5e;
+}
+tr, td{
+  border: 1px solid black;
+}
+td{
+  padding: 0.2rem 0.3rem;
+}
+tr:hover{
+  background-color: burlywood;
+}
+button{
+  font-weight: 600;
+}
+button:hover{
+  background-color: cadetblue;
+}
